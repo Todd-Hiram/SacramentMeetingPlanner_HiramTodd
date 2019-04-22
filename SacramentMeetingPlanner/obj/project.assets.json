@@ -12947,11 +12947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
+      "projectUniqueName": "/Volumes/easystore/MacMiniDrive/HiramsFolder/school/GitHub/SacramentMeetingPlanner_HiramTodd/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
       "projectName": "SacramentMeetingPlanner",
-      "projectPath": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
+      "projectPath": "/Volumes/easystore/MacMiniDrive/HiramsFolder/school/GitHub/SacramentMeetingPlanner_HiramTodd/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
       "packagesPath": "/Users/hiramtodd/.nuget/packages/",
-      "outputPath": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/",
+      "outputPath": "/Volumes/easystore/MacMiniDrive/HiramsFolder/school/GitHub/SacramentMeetingPlanner_HiramTodd/SacramentMeetingPlanner/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
